@@ -2,7 +2,5 @@
     font-family: 'AvenirLight';
     src: url('../fonts/AvenirLight.woff2') format('woff2'),
          url('../fonts/AvenirLight.woff') format('woff'),
-         url('../fonts/AvenirLight.ttf') format('truetype'),
-         url('../fonts/AvenirLight.svg') format('svg')
-
+         url('../fonts/AvenirLight.ttf') format('truetype')
 }
