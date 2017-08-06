@@ -42,8 +42,18 @@ body {
 }
 
 .pbold {
-    font-weight: 900;
+    font-weight: 700;
+    font-style: italic;
 }
+
+.designer {
+    font-weight: 500;
+}
+
+.developer {
+    font-weight: 300;
+}
+
 
 @-o-viewport {
     width: device-width;
@@ -1321,6 +1331,7 @@ Resume
 }
 
 .resume-date span {
+    font-weight: 300
     margin-top: 6px;
     font-size: 0.8em;
     color: #474d5d;
@@ -2035,6 +2046,7 @@ Contacts
 
 .contactMsg {
     margin-top: 50px;
+    font-weight: 300;
 }
 
 #contacts h2 {
@@ -2876,7 +2888,7 @@ h3.animtext,
 .search-submit i,
 .bs .to-top i {
     color: #417fb2;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 #jpreBar,
@@ -3948,10 +3960,10 @@ a {
 .CellL {
     text-align: right;
     width: 46.5%;
-    font-weight: bold;
+    font-weight: 500;
 }
 
 .CellR {
     text-align: left;
-    font-weight: bold;
+    font-weight: 500;
 }
